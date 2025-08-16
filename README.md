@@ -73,9 +73,6 @@ java  --module-path /path/to/javafx/lib --add-modules javafx.controls SevenGSmar
 
 * **Latency Line Chart** – Real-time end-to-end latency (ms).
 * **Slice Bandwidth Bars** – eMBB, URLLC, mMTC slice allocation.
-
-![dashboard-example](https://via.placeholder.com/700x300.png?text=JavaFX+Dashboard+Preview)
-
 ---
 
 ## 📡 Metrics (Prometheus)
